@@ -31,9 +31,20 @@ String[] names = {"John", "Steve", "Benjamin", "Michelle", "Patrick", "Karin"};
 //// task 3
 //println (sum/numbers.length);
 
+
+
+
+
 ////task 4
 
-//println(names[4]);
+//String spec = "Benjamin";
+
+//for (int i = 0; i < names.length; i++) {
+//  if (names[i] == spec) {
+//    println(spec + " eksisterer");
+//  }
+//}
+
 
 
 
