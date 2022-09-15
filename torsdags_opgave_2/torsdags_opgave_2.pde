@@ -16,6 +16,18 @@ String[] names = {"John", "Steve", "Benjamin", "Michelle", "Patrick", "Karin"};
 
 //println(sum);
 
+
+////task 2
+
+//for (int i =  0; i < 6; i++) {
+//  println("");
+//  for  (int j =  0; j < 10; j++) {
+//    print(" - ");
+//  }
+//}
+
+
+
 //// task 3
 //println (sum/numbers.length);
 
